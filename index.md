@@ -1,22 +1,14 @@
 ---
 layout: default
 title: Home
+lang: en
+permalink: /
 ---
 
-<style>
-.header { display: flex; align-items: center; gap: 14px; margin-bottom: 8px; }
-.header img { height: 56px; width: auto; }
-.cards { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
-.card { border: 1px solid #e6e6e6; border-radius: 10px; padding: 16px; background: #fff; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
-.card h3 { margin-top: 0; }
-#main-content { max-width: 900px; }
-</style>
+{% include navigation.html %}
 
-<div class="header">
-  <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="AgentRatio logo">
-  <div>
-    <h1 style="margin:0;">AgentRatio</h1>
-    <p style="margin:4px 0 0 0;"><em>Decoding the Ratio That Powers Intelligence</em></p>
+<div class="header" style="display:flex;align-items:center;gap:14px;margin-bottom:8px;">
+  <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="AgentRatio logo" style 0;"><em>Decoding the Ratio That Powers Intelligence</em></p>
   </div>
 </div>
 
@@ -26,10 +18,10 @@ title: Home
 
 ## What you’ll find here
 
-AgentRatio shares **articles** and **tutorials** focused on business value cases and simple agents you can build yourself, so you can go from curiosity to outcomes—fast. Our first track is the **Copilot Business Value Analysis for Executives** (BVA for Execs).
+AgentRatio shares **articles** and **tutorials** focused on business value cases and simple agents you can build yourself, so you can go from curiosity to outcomes—fast. Our first track is the **Copilot Business Value Analysis for Executives** (BVA for Execs). [1](https://microsofteur-my.sharepoint.com/personal/lufonzi_microsoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B50D3FB7C-9499-42FF-A75A-08A75133A3C7%7D&file=Understand%20Copilot%20Value%20Project.docx&action=default&mobileredirect=true)
 
-<div class="cards" id="bva">
-  <div class="card">
+<div class="cards" style="display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));">
+  <div class="card" style="border:1px solid #e6e6e6;border-radius:10px;padding:16px;background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.06);">
     <h3>Copilot BVA for Executives</h3>
     <p>A concise way to estimate the value of Microsoft 365 Copilot using an approach executives can validate quickly.</p>
     <ul>
@@ -43,17 +35,3 @@ AgentRatio shares **articles** and **tutorials** focused on business value cases
 </div>
 
 ---
-
-## Why “AgentRatio”?
-
-Because the value of AI grows with the **number of humans using it**—humans are part of the equation. AgentRatio highlights a rational balance between people and agents to improve outcomes.
-
----
-
-## Coming next
-
-- Methodology • Model • Create your agent • FAQ pages
-- Downloadable assets (e.g., the Excel model)
-- A public knowledge source that your agent can query
-
-Stay tuned—subscribe to updates via the repo’s Watch feature.
