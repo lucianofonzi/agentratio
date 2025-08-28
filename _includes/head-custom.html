@@ -1,9 +1,0 @@
-{%- comment -%}
-Inject hreflang alternates for EN/IT versions.
-This assumes mirrored paths: EN at /..., IT at /it/... for the same slug.
-{%- endcomment -%}
-{% assign is_it = page.url | slice: 0,4 %}
-{% if is_it == '/it/' %}
-  {{ page.url | relative_url }}
-  {<link rel="alternate" hreflang="en"e %}
-  {{ page.url | relative_url }}
