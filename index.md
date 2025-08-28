@@ -20,7 +20,7 @@ title: AgentRatio
   </div>
 </div>
 
-> A practical destination for executives, solution owners, and makers to learn how Microsoft 365 Copilot and Copilot Studio deliver measurable business value through real-world models and agents.
+> As a  practical destination for executives, solution owners, and makers to learn how Microsoft 365 Copilot and Copilot Studio deliver measurable business value through real-world models and agents.
 
 ---
 
