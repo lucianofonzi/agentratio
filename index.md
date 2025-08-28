@@ -43,6 +43,6 @@ title: AgentRatio
 ## On the author
 
 
-> <strong>#MicrosoftEmployee</strong> #AI #Microsoft365 #ProjectManagement
-> <strong>#Collaterals</strong> #Teaching #Coaching #ContentCreation
+<p> <strong>#MicrosoftEmployee</strong> #AI #Microsoft365 #ProjectManagement </p>
+<p> <strong>#Collaterals</strong> #Teaching #Coaching #ContentCreation </p>
 
