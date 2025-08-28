@@ -20,14 +20,11 @@ title: AgentRatio
   </div>
 </div>
 
-> As a  practical destination for executives, solution owners, and makers to learn how Microsoft 365 Copilot and Copilot Studio deliver measurable business value through real-world models and agents.
+> From my experience working with customers, I've observed that the benefits of AI grow exponentially as more people engage with it. This insight is supported by several mathematical network laws which, despite their nuances, all confirm the same conclusion. The name **AgentRatio** reflects this principle — emphasizing that the balance between humans and agents is vital to make companies thrive.
+>
+> My site intends to offer articles and video tutorials that may help customers navigate and shape this evolving relatioship with clarity, purpose and wisdom.
 
 ---
-
-## What you’ll find here
-
-AgentRatio shares **articles** and **tutorials** focused on business value cases and simple agents you can build yourself, so you can go from curiosity to outcomes—fast. Our first track is the **Copilot Business Value Analysis for Executives** (BVA for Execs).
-
 <div class="cards" id="bva">
   <div class="card">
     <h3>Copilot BVA for Executives</h3>
