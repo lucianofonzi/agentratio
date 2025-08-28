@@ -13,5 +13,5 @@ This section explains the approach and assets used to estimate Copilot value for
 
 - ./methodology
 - ./model
-- [/create-your-agent
+- ./create-your-agent
 - ./faq
