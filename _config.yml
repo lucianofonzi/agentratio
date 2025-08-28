@@ -2,20 +2,10 @@ title: AgentRatio
 tagline: Decoding the Ratio That Powers Intelligence
 description: Articles and tutorials on Microsoft 365 Copilot and Copilot Studio.
 
-# IMPORTANT for project sites
+# Project site settings
 url: https://lucianofonzi.github.io
 baseurl: /agentratio
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
-  - jekyll-sitemap
-
-# Languages
-default_lang: en
-languages: [en, it]
-
-# Optional: exclude drafts, etc.
-exclude:
-  - node_modules
-  - Gemfile
