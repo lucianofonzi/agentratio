@@ -43,6 +43,6 @@ title: AgentRatio
 ## On the author
 
 
-<p> <strong>As a #MicrosoftEmployee</strong> #AI #Microsoft365 #ProjectManagement </p>
-<p> <strong>#Passions</strong> #Teaching #Coaching #ContentCreation #LowCoding </p>
+<p> As a <strong>#MicrosoftEmployee</strong> my professional experience includes: #AI #Microsoft365 #ProjectManagement </p>
+<p> My <strong>#Passions</strong> are #Teaching #Coaching #ContentCreation #LowCoding </p>
 
