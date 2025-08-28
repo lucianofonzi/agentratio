@@ -40,15 +40,9 @@ title: AgentRatio
 
 ---
 
-## Why “AgentRatio”?
-
-Because the value of AI grows with the **number of humans using it**—humans are part of the equation. AgentRatio highlights a rational balance between people and agents to improve outcomes.
-
----
-
 ## On the author
 
-#MicrosoftEmployee 
-<strong>#MicrosoftEmployee</strong> #AI #Microsoft365 #ProjectManagement
-<strong>#Collaterals</strong> #Teaching #Coaching #ContentCreation
+
+> <strong>#MicrosoftEmployee</strong> #AI #Microsoft365 #ProjectManagement
+> <strong>#Collaterals</strong> #Teaching #Coaching #ContentCreation
 
