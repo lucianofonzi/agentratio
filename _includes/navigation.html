@@ -1,0 +1,19 @@
+{% assign lang = page.lang | default: site.default_lang %}
+{% assign items = site.data.nav[lang] %}
+<nav class="topnav" style="display:flex; gap:16px; align-items:center; margin:16px 0;">
+  {% for item in items %}
+    {{ item.url | relative_url }}{{ item.title }}</a>
+  {% endfor %}
+
+  <span style="margin-left:auto;"></span>
+  {% comment %}
+    Language switcher: if current URL starts with /it/, switch to EN (remove /it);
+    otherwise, add /it prefix.
+  {% endcomment %}
+  {% assign is_it = page.url | slice: 0,4 %}
+  {% if is_it == '/it/' %}
+    {{ page.url | remove_first: English</a>
+  {% else %}
+    {{ Italiano</a>
+  {% endif %}
+</nav>
