@@ -1,6 +1,6 @@
 title: AgentRatio
 tagline: Decoding the Ratio That Powers Intelligence
-description: Articles and tutorials on Microsoft 365 Copilot and Copilot Studio.
+description: Decoding the Ratio That Powers Intelligence
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
