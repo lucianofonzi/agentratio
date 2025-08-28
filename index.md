@@ -28,14 +28,13 @@ title: AgentRatio
 <div class="cards" id="bva">
   <div class="card">
     <h3>Copilot BVA for Executives</h3>
-    <p>A concise way to estimate the value of Microsoft 365 Copilot using an approach executives can validate quickly.</p>
+    <p>How estimate the value of Microsoft 365 Copilot using an approach executives can quickly validate.</p>
     <ul>
       <li><strong>Methodology</strong> – the model behind the numbers</li>
-      <li><strong>Model</strong> – how to use the Excel file</li>
-      <li><strong>Create your agent</strong> – build a retrieval agent that answers questions about this site</li>
+      <li><strong>Copilot Business Value Analysis</strong> – how to use the Excel tool</li>
+      <li><strong>Create your agent</strong> – build a retrieval agent that answers questions about the Copilot Business Value Analysis</li>
       <li><strong>FAQ</strong> – common questions</li>
     </ul>
-    <p><em>Coming soon</em></p>
   </div>
 </div>
 
@@ -47,10 +46,9 @@ Because the value of AI grows with the **number of humans using it**—humans ar
 
 ---
 
-## Coming next
+## On the author
 
-- Methodology • Model • Create your agent • FAQ pages
-- Downloadable assets (e.g., the Excel model)
-- A public knowledge source that your agent can query
+#MicrosoftEmployee 
+<strong>#MicrosoftEmployee</strong> #AI #Microsoft365 #ProjectManagement
+<strong>#Collaterals</strong> #Teaching #Coaching #ContentCreation
 
-Stay tuned—subscribe to updates via the repo’s Watch feature.
