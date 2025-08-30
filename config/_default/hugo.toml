@@ -1,5 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://lucianofonzi.github.io/agentratio/"
+canonifyURLs = true
+relativeURLs = true
 #baseURL = 'http://localhost:1313/'
 #baseURL = 'https://example.org/'
 #baseURL = "https://demo.gethugothemes.com/educenter/site/"
