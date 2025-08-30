@@ -1,0 +1,3 @@
+baseURL = "https://lucianofonzi.github.io/agentratio/"
+canonifyURLs = true
+relativeURLs = true
