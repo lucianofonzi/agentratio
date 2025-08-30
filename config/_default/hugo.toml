@@ -1,5 +1,6 @@
 ######################## default configuration ####################
-baseURL = 'http://localhost:1313/'
+#baseURL = 'http://localhost:1313/'
+baseURL = 'lucianofonzi.github.io/agentratio/'
 #baseURL = 'https://example.org/'
 #baseURL = "https://demo.gethugothemes.com/educenter/site/"
 title = "AgentRatio"
